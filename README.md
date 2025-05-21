@@ -4,7 +4,7 @@ An educational website for students and programmers 😊😊😊
 
 ---
 
-### 🔗 Try it out here: 👉 [Smart-lern Website](https://vamshikrishnasiribommala.github.io/Smart_Learn/)
+### 🔗 Try it out here: 👉 [Smart-lern Website](https://vamshikrishnasiribommala.github.io/Smart-Learning-Website/)
 
 ---
 
